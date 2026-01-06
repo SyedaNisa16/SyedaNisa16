@@ -46,6 +46,18 @@
 ###
 
 <h2 align="left">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedaNisa16&show_icons=true&theme=dracula" height="150" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=SyedaNisa16&theme=dracula" height="150" alt="streak stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNisa16&layout=compact&theme=dracula" height="150" alt="top languages" />
+</div>
 
 ###
 
