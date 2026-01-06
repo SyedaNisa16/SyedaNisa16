@@ -50,18 +50,21 @@ I’m a beginner developer with a growing interest in building meaningful applic
 </div>
 
 ###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Usman-Khan22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br><br>
 
-<h2 align="left">GitHub Stats</h2>
+<h1 align="left">📊 GitHub Stats:</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedaNisa16&show_icons=true&theme=dracula&hide_title=false&border_radius=10" height="150" alt="github stats" />
-  <img src="https://streak-stats.demolab.com?user=SyedaNisa16&theme=dracula" height="150" alt="streak stats" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=SyedaNisa16&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SyedaNisa16&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNisa16&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNisa16&layout=compact&theme=dracula&hide_title=false&border_radius=10" height="150" alt="top languages" />
-  <img src="https://github-profile-trophy.vercel.app?username=SyedaNisa16&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophies" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SyedaNisa16&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=SyedaNisa16&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
