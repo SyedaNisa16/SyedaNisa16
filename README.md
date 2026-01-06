@@ -28,7 +28,7 @@ I’m a beginner developer with a growing interest in building meaningful applic
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
   <img width="12" />
@@ -41,24 +41,27 @@ I’m a beginner developer with a growing interest in building meaningful applic
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedaNisa16/SyedaNisa16/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedaNisa16/SyedaNisa16/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SyedaNisa16/SyedaNisa16/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">GitHub Contribution Graph</h2>
+
+###
+
+<div align="center">
+  <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedaNisa16&theme=dracula" height="200" />
+</div>
 
 ###
 
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedaNisa16&show_icons=true&theme=dracula" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedaNisa16&show_icons=true&theme=dracula&hide_title=false&border_radius=10" height="150" alt="github stats" />
   <img src="https://streak-stats.demolab.com?user=SyedaNisa16&theme=dracula" height="150" alt="streak stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNisa16&layout=compact&theme=dracula" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNisa16&layout=compact&theme=dracula&hide_title=false&border_radius=10" height="150" alt="top languages" />
   <img src="https://github-profile-trophy.vercel.app?username=SyedaNisa16&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophies" />
 </div>
+
